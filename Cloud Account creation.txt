@@ -1,0 +1,13 @@
+Cloud computing is the delivery of computing services—including servers, storage, databases, networking, software, analytics, and intelligence—over the Internet ("the cloud") to offer faster innovation, flexible resources, and economies of scale.
+Cloud Service Providers- Google Cloud, Microsoft Azure, and Amazon Web Services (AWS)—are considered the established leaders. However, there are a host of other smaller providers that offer cloud services as well, including IBM, Alibaba, Oracle, Red Hat, DigitalOcean, and Rackspace. 
+
+
+Creating a free cloud account in Azure:
+1.In google, search for free azure cloud account and click on the link "https://microsoft.azure.com".
+2.On this page click on start free option to create a free cloud account.
+3.It will redirect to a microsoft login page in which you can login with existing gmail account or create a new one.
+4.After entering the credentials you need to enter the details for your profile such as first name,last name, address,mobile number for verification etc.
+5.Then we are requested to provide our credit/debit card details for account subscription.
+6.After entering OTP for bank account you can successfully login to azure account.
+7.In the login page you need to provide your email given while creating this account and password/code to login.
+8.After successfull login you will be redirected to Microsoft azure page.
