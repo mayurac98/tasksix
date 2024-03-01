@@ -1,4 +1,4 @@
-Cloud computing is the delivery of computing services—including servers, storage, databases, networking, software, analytics, and intelligence—over the Internet ("the cloud") to offer faster innovation, flexible resources, and economies of scale.
+Cloud computing is the delivery of computing services including servers, storage, databases, networking, software, analytics, and intelligence—over the Internet ("the cloud") to offer faster innovation, flexible resources, and economies of scale.
 Cloud Service Providers- Google Cloud, Microsoft Azure, and Amazon Web Services (AWS)—are considered the established leaders. However, there are a host of other smaller providers that offer cloud services as well, including IBM, Alibaba, Oracle, Red Hat, DigitalOcean, and Rackspace. 
 
 
